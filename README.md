@@ -2,7 +2,7 @@
 
 >```Algorithm Visualizer``` is an interactive way and platform that visualize the algorithms in four main domain i.e. Trie data structure, Binary Search Tree, Path Finding and Sort Visual algorithm. The project focuses on visualizng 📊 the algorithm and try to make easier to understand and learn the algorithm.
 
-Author : [Arafath Qureshi](arfathq9@gmail.com)
+Author : [Janjala Nadnhini](janjalanandhini@gmail.com)
 
 
 
@@ -35,7 +35,7 @@ Author : [Arafath Qureshi](arfathq9@gmail.com)
 We welcome contributions! If you have an idea for a new feature or have found a bug, please open an issue on Github. 
 
 ## 📝 Endnote
-So if you have liked this project then do consider giving it a star which will encourage me to build more of this kind of projects in future and also if you want youcan follow me on [Github](https://github.com/arafath-3172) 😊
+So if you have liked this project then do consider giving it a star which will encourage me to build more of this kind of projects in future and also if you want youcan follow me on [Github](https://github.com/Nandhini-92) 😊
 Keep Coding !
 
-<p align="right">~ Arafath Qureshi</p>
+<p align="right">~ Janjala Nandhini</p>
